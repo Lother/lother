@@ -12,8 +12,14 @@
 ### 🧰 技術棧
 `AWS` `Linux` `Docker` `Nginx` `Redis` `RabbitMQ` `MySQL` · `Ansible` `Puppet` `firewalld` · `PHP` `Java` `TypeScript` `C/C++` `C#`
 
-### 🎮 業餘專案
+### 🛠️ 業餘專案
+- [release-pipeline](https://github.com/Lother/release-pipeline)：多 repo 發版與同步管線範本（非同步發版、失敗分級、GitHub App token）
+- [leak-guard](https://github.com/Lother/leak-guard)：上傳與 git push 前的 fail-closed 防洩漏檢查工具
 - [argus](https://github.com/Lother/argus)：Claude Code agent 監控 VS Code 擴充功能（繁中分支，含自行開發的功能）
+- [lother.dev](https://lother.dev/)：Nginx／TLS／HTTP/3 與安全標頭的實驗場
+
+### 📝 技術筆記
+- [多 repo 發版管線的四個設計決策](https://lother.github.io/notes/release-pipeline.html)
 
 ### 📫 聯絡方式
 [LinkedIn](https://www.linkedin.com/in/lother) · lotherex@gmail.com
