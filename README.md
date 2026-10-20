@@ -14,7 +14,6 @@
 
 ### 🎮 業餘專案
 - [argus](https://github.com/Lother/argus)：Claude Code agent 監控 VS Code 擴充功能（繁中分支，含自行開發的功能）
-- [ffxiv-tc-port](https://github.com/ffxiv-tc-port)：FF14 台服 Dalamud 插件
 
 ### 📫 聯絡方式
 [LinkedIn](https://www.linkedin.com/in/lother) · lotherex@gmail.com
