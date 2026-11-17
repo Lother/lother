@@ -14,11 +14,13 @@
 - **維運自動化**：Ansible、Puppet 跨雲部署範本；Docker；Icinga2 + Grafana 監控
 
 ### 🧰 技術棧
-`Go` `Python` `PHP` `Java` `TypeScript` · `AWS` `Azure` `GCP` `OCI` `Ubuntu` `Docker` · `Ansible` `Puppet` `Icinga2` `Grafana` `firewalld` · `PostgreSQL` `MySQL` `Redis` `Cassandra` `RabbitMQ` · `Nginx` `HAProxy`
+`Go` `Python` `PHP` `Java` `TypeScript` · `AWS` `Azure` `GCP` `OCI` `Ubuntu` `Docker` · `Ansible` `Puppet` `Icinga2` `Grafana` `firewalld` · `PostgreSQL` `MySQL` `Redis` `Cassandra` `RabbitMQ` · `Nginx` `HAProxy` · `JavaScript` `Chrome Extension (MV3)`
 
 ### 🛠️ 業餘專案
 - [release-pipeline](https://github.com/Lother/release-pipeline)：多 repo 發版與同步管線範本（非同步發版、失敗分級、GitHub App token）
 - [leak-guard](https://github.com/Lother/leak-guard)：上傳與 git push 前的 fail-closed 防洩漏檢查工具
+- [fp-guard 指紋護盾](https://github.com/Lother/fp-guard)：Chrome 擴充功能，替 Canvas／WebGL／音訊等瀏覽器指紋加入每次不同的雜訊，涵蓋 iframe 與 Worker，並支援分站 proxy 與防 WebRTC 洩漏
+- [imgtr 圖片即譯](https://github.com/Lother/imgtr)：Chrome 擴充功能，用 Gemini 辨識網頁圖片裡的文字並翻譯，譯文疊回原圖位置；金鑰只存在本機，不經中間伺服器
 - [argus](https://github.com/Lother/argus)：Claude Code agent 監控 VS Code 擴充功能（繁中分支，含自行開發的功能）
 - [lother.dev](https://lother.dev/)：Nginx／TLS／HTTP/3 與安全標頭的實驗場
 
